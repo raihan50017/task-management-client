@@ -1,0 +1,9 @@
+.dropdown-toggle::after {
+  display: none !important;
+}
+.side-bar {
+  background-color: #8ecae6;
+}
+.nav-link.active {
+  background-color: #219ebc;
+}
